@@ -3,19 +3,22 @@
 开源代码：
 - EHCF：https://github.com/chenchongthu/EHCF
 - GHCF：https://github.com/chenchongthu/GHCF
+- MB-GMN：https://github.com/akaxlh/MBRec
 - CML：https://github.com/weiwei1206/CML.git
 - BCIPM：https://github.com/MingshiYan/BIPN
 - COPF： https://github.com/1918190/COPF
 - HEM-GNN：https://github.com/SamuelZack/MultiRec
 - S-MBRec：https://github.com/GuShuyun/MBRec
 - CRGCN：https://github.com/MingshiYan/CRGCN
-- MB-CGCN：https://github.com/MingshiYan/MB-CGCN
+- MB-CGCN：https://github.com/SS-00-SS/MBCGCN
+- MMCLR：https://github.com/wyqing20/MMCLR
 - Disen-CGCN：https://github.com/JianhuaDongCS/Disen-CGCN
 - DA-GCN：https://github.com/xizhu1022/DA-GCN
 - MBSSL：https://github.com/Scofield666/MBSSL.git
 - DeMBR：https://github.com/DeMBR2024/DeMBR.git
 - POGCN：https://anonymous.4open.science/r/POGCN-E8FD
 - HEML：https://github.com/Breeze-del/HEMLCODE
+- SSPGNN：https://github.com/ZZY-GraphMiningLab/SSPGNN
 
 实验设置：
 
